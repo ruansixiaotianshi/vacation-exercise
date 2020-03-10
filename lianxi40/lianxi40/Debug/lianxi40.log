@@ -1,0 +1,93 @@
+﻿  lianxi40.c
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(26): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(26): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(27): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(27): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(28): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(28): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(29): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(29): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(30): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(30): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(31): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(31): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(32): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(32): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(37): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(37): warning C4024: “strlen”: 形参和实参 1 的类型不同
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(38): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(38): warning C4024: “strlen”: 形参和实参 1 的类型不同
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(39): warning C4047: “函数”:“const char *”与“char (*)[6]”的间接级别不同
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(39): warning C4024: “strlen”: 形参和实参 1 的类型不同
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(40): warning C4047: “函数”:“const char *”与“char (*)[6]”的间接级别不同
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(40): warning C4024: “strlen”: 形参和实参 1 的类型不同
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(43): error C2374: “arr”: 重定义；多次初始化
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(25): note: 参见“arr”的声明
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(44): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(44): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(45): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(45): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(46): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(46): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(47): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(47): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(48): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(48): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(49): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(49): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(50): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(50): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(55): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(55): warning C4024: “strlen”: 形参和实参 1 的类型不同
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(56): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(56): warning C4024: “strlen”: 形参和实参 1 的类型不同
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(57): warning C4047: “函数”:“const char *”与“char (*)[6]”的间接级别不同
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(57): warning C4024: “strlen”: 形参和实参 1 的类型不同
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(58): warning C4047: “函数”:“const char *”与“char (*)[6]”的间接级别不同
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(58): warning C4024: “strlen”: 形参和实参 1 的类型不同
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(62): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(62): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(63): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(63): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(64): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(64): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(65): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(65): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(66): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(66): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(67): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(67): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(68): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(68): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(71): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(71): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(72): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(72): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(73): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(73): warning C4024: “strlen”: 形参和实参 1 的类型不同
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(73): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(73): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(74): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(74): warning C4024: “strlen”: 形参和实参 1 的类型不同
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(74): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(74): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(75): warning C4047: “函数”:“const char *”与“char **”的间接级别不同
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(75): warning C4024: “strlen”: 形参和实参 1 的类型不同
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(75): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(75): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(76): warning C4047: “函数”:“const char *”与“char **”的间接级别不同
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(76): warning C4024: “strlen”: 形参和实参 1 的类型不同
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(76): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(76): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(77): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(77): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(80): error C2369: “a”: 重定义；不同的下标
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(10): note: 参见“a”的声明
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(82): error C2109: 下标要求数组或指针类型
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(82): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(82): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(82): note: 缺失的可变参数 1 为格式字符串“%d”所需
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(85): error C2100: 非法的间接寻址
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(85): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(97): error C2084: 函数“int main()”已有主体
+  e:\假期练习\练习\lianxi40\lianxi40\lianxi40.c(6): note: 参见“main”的前一个定义
