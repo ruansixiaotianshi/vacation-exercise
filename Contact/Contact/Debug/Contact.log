@@ -1,0 +1,12 @@
+﻿  contact.c
+e:\假期练习\练习\contact\contact\contact.c(23): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“short *”
+  e:\假期练习\练习\contact\contact\contact.c(23): note: 请考虑在格式字符串中使用“%ls”
+  e:\假期练习\练习\contact\contact\contact.c(23): note: 请考虑在格式字符串中使用“%lls”
+  e:\假期练习\练习\contact\contact\contact.c(23): note: 请考虑在格式字符串中使用“%Ls”
+  e:\假期练习\练习\contact\contact\contact.c(23): note: 请考虑在格式字符串中使用“%ws”
+e:\假期练习\练习\contact\contact\contact.c(143): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“short *”
+  e:\假期练习\练习\contact\contact\contact.c(143): note: 请考虑在格式字符串中使用“%ls”
+  e:\假期练习\练习\contact\contact\contact.c(143): note: 请考虑在格式字符串中使用“%lls”
+  e:\假期练习\练习\contact\contact\contact.c(143): note: 请考虑在格式字符串中使用“%Ls”
+  e:\假期练习\练习\contact\contact\contact.c(143): note: 请考虑在格式字符串中使用“%ws”
+  Contact.vcxproj -> E:\假期练习\练习\Contact\Debug\Contact.exe
