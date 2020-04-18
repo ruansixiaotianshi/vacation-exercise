@@ -1,0 +1,7 @@
+﻿  test.cpp
+e:\win32\tanchuang\test.cpp(30): error C2440: “=”: 无法从“const wchar_t [4]”转换为“LPWSTR”
+  e:\win32\tanchuang\test.cpp(30): note: 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+e:\win32\tanchuang\test.cpp(37): error C2065: “ID_OPTION3”: 未声明的标识符
+e:\win32\tanchuang\test.cpp(46): error C2059: 语法错误:“...”
+e:\win32\tanchuang\test.cpp(48): error C2059: 语法错误:“...”
+e:\win32\tanchuang\test.cpp(60): error C2059: 语法错误:“...”
