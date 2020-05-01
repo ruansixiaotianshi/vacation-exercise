@@ -1,0 +1,52 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/data/data",
+    "pages/camera/camera",
+    "pages/news/news",
+    "pages/mypage/mypage"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "欢迎使用雷锋行",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": ""
+  },
+  "tabBar": {
+    "color": "#000",
+    "selectedColor":"#00f",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "/images/home-off.png",
+        "selectedIconPath": "/images/home-on.png"
+      },
+      {
+        "pagePath":  "pages/data/data",
+        "text": "统计数据",
+        "iconPath": "/images/data-off.png",
+        "selectedIconPath": "/images/data-on.png"
+      },
+      {
+        "pagePath":  "pages/camera/camera",
+        "text": "随拍",
+        "iconPath": "/images/camera-off.png",
+        "selectedIconPath": "/images/camera-on.png"
+      },
+      {
+        "pagePath":  "pages/news/news",
+        "text": "消息",
+        "iconPath": "/images/news.png",
+        "selectedIconPath":"/images/news.png"
+      },
+      {
+        "pagePath":  "pages/mypage/mypage",
+        "text": "我的",
+        "iconPath": "/images/mypage-off.png",
+        "selectedIconPath": "/images/mypage-on.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

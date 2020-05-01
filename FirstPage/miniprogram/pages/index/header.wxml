@@ -1,0 +1,7 @@
+<!--pages/kj/demo112-include/header.wxml-->
+<view class='header'>
+  <view>关注</view>
+  <view>推荐</view>
+  <view>热门</view>
+ 
+</view>

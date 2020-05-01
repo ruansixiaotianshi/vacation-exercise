@@ -1,0 +1,4 @@
+<!--pages/kj/demo112-include/footer.wxml-->
+<view class='footer' style='height:100px;'>
+  版权所有 @北方工业大学 丨 电话：010-88802114
+</view>
