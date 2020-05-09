@@ -1,0 +1,16 @@
+﻿  test.c
+e:\假期练习\练习\chess\test.c(7): error C2061: 语法错误: 标识符“Q”
+e:\假期练习\练习\chess\test.c(7): error C2059: 语法错误:“;”
+e:\假期练习\练习\chess\test.c(46): error C2146: 语法错误: 缺少“)”(在标识符“x”的前面)
+e:\假期练习\练习\chess\test.c(46): error C2081: “point”: 形参表中的名称非法
+e:\假期练习\练习\chess\test.c(46): error C2061: 语法错误: 标识符“x”
+e:\假期练习\练习\chess\test.c(46): error C2059: 语法错误:“;”
+e:\假期练习\练习\chess\test.c(46): error C2059: 语法错误:“)”
+e:\假期练习\练习\chess\test.c(46): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+e:\假期练习\练习\chess\test.c(58): error C2059: 语法错误:“}”
+e:\假期练习\练习\chess\test.c(93): error C2146: 语法错误: 缺少“)”(在标识符“s”的前面)
+e:\假期练习\练习\chess\test.c(93): error C2061: 语法错误: 标识符“s”
+e:\假期练习\练习\chess\test.c(93): error C2059: 语法错误:“;”
+e:\假期练习\练习\chess\test.c(93): error C2059: 语法错误:“)”
+e:\假期练习\练习\chess\test.c(94): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+e:\假期练习\练习\chess\test.c(130): error C2059: 语法错误:“}”

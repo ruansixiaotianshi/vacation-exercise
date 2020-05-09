@@ -1,0 +1,4 @@
+﻿  test.c
+e:\假期练习\练习\chesshorse\test.c(20): warning C4013: “Print”未定义；假设外部返回 int
+e:\假期练习\练习\chesshorse\test.c(48): warning C4716: “Print”: 必须返回一个值
+  ChessHorse.vcxproj -> E:\假期练习\练习\ChessHorse\Debug\ChessHorse.exe

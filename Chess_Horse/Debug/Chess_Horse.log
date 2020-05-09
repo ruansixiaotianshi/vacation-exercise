@@ -1,0 +1,4 @@
+﻿  test.c
+e:\假期练习\练习\chess_horse\test.c(76): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\假期练习\练习\chess_horse\test.c(76): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  Chess_Horse.vcxproj -> E:\假期练习\练习\Chess_Horse\Debug\Chess_Horse.exe
